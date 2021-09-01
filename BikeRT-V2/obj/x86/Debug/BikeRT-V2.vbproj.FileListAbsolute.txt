@@ -1,0 +1,80 @@
+c:\users\production2\documents\visual studio 2010\Projects\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.Form1.resources
+c:\users\production2\documents\visual studio 2010\Projects\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.Main.resources
+c:\users\production2\documents\visual studio 2010\Projects\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.Resources.resources
+c:\users\production2\documents\visual studio 2010\Projects\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT-V2.vbproj.GenerateResource.Cache
+c:\users\production2\documents\visual studio 2010\Projects\BikeRT-V2\BikeRT-V2\bin\Debug\BikeRT-V2.accdb
+c:\users\production2\documents\visual studio 2010\Projects\BikeRT-V2\BikeRT-V2\bin\Debug\BikeRT-V2.exe
+c:\users\production2\documents\visual studio 2010\Projects\BikeRT-V2\BikeRT-V2\bin\Debug\BikeRT-V2.pdb
+c:\users\production2\documents\visual studio 2010\Projects\BikeRT-V2\BikeRT-V2\bin\Debug\BikeRT-V2.xml
+c:\users\production2\documents\visual studio 2010\Projects\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT-V2.exe
+c:\users\production2\documents\visual studio 2010\Projects\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT-V2.xml
+c:\users\production2\documents\visual studio 2010\Projects\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT-V2.pdb
+c:\users\production2\documents\visual studio 2010\Projects\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.FRM_Bkie.resources
+C:\Users\Production2\Documents\Visual Studio 2010\Projects\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.FRM_R.resources
+C:\Users\Production2\Documents\Visual Studio 2010\Projects\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.FRM_In.resources
+C:\Users\Production2\Documents\Visual Studio 2010\Projects\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.FRM_T.resources
+C:\Users\Production2\Documents\Visual Studio 2010\Projects\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT-V2.vbprojResolveAssemblyReference.cache
+C:\Users\Production2\Documents\Visual Studio 2010\Projects\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.RPT_Qty.resources
+C:\Users\Production2\Documents\Visual Studio 2010\Projects\BikeRT-V2\BikeRT-V2\obj\x86\Debug\RdlCompile.cache
+C:\Users\Production2\Documents\Visual Studio 2010\Projects\BikeRT-V2\BikeRT-V2\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Production2\documents\visual studio 2010\Projects\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.RPT_Employees.resources
+C:\Users\Production2\documents\visual studio 2010\Projects\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.RPT_R.resources
+C:\Users\Production2\documents\visual studio 2010\Projects\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.RPT_FCR.resources
+C:\Users\Production2\documents\visual studio 2010\Projects\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.RPT_CusP.resources
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT-V2.exe
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT-V2.xml
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT-V2.pdb
+H:\BikeRT-V2\BikeRT-V2\bin\Debug\BikeRT-V2.accdb
+H:\BikeRT-V2\BikeRT-V2\bin\Debug\BikeRT-V2.exe
+H:\BikeRT-V2\BikeRT-V2\bin\Debug\BikeRT-V2.pdb
+H:\BikeRT-V2\BikeRT-V2\bin\Debug\BikeRT-V2.xml
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT-V2.vbprojResolveAssemblyReference.cache
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.Form1.resources
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.FRM_Bkie.resources
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.FRM_In.resources
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.FRM_R.resources
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.FRM_T.resources
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.Main.resources
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.Resources.resources
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.RPT_CusP.resources
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.RPT_Employees.resources
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.RPT_FCR.resources
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.RPT_Qty.resources
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.RPT_R.resources
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT-V2.vbproj.GenerateResource.Cache
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\RdlCompile.cache
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\RdlCompile.compiled
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.RPT_FR.resources
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.FRM_Customers.resources
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.FRM_Employee.resources
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.RPT_Bike.resources
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.RPT_Customers.resources
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT-V2.exe
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT-V2.xml
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT-V2.pdb
+E:\BikeRT-V2\BikeRT-V2\bin\Debug\BikeRT-V2.accdb
+E:\BikeRT-V2\BikeRT-V2\bin\Debug\BikeRT-V2.exe
+E:\BikeRT-V2\BikeRT-V2\bin\Debug\BikeRT-V2.pdb
+E:\BikeRT-V2\BikeRT-V2\bin\Debug\BikeRT-V2.xml
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT-V2.vbprojResolveAssemblyReference.cache
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.Form1.resources
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.FRM_Bkie.resources
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.FRM_Customers.resources
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.FRM_Employee.resources
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.FRM_In.resources
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.FRM_R.resources
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.FRM_T.resources
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.Main.resources
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.Resources.resources
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.RPT_Bike.resources
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.RPT_CusP.resources
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.RPT_Customers.resources
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.RPT_Employees.resources
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.RPT_FCR.resources
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.RPT_FR.resources
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.RPT_Qty.resources
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.RPT_R.resources
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT-V2.vbproj.GenerateResource.Cache
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\RdlCompile.cache
+E:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\RdlCompile.compiled
+H:\BikeRT-V2\BikeRT-V2\obj\x86\Debug\BikeRT_V2.Form2.resources

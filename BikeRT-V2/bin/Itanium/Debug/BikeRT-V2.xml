@@ -1,0 +1,332 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BikeRT-V2
+</name>
+</assembly>
+<members>
+<member name="P:BikeRT_V2.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:BikeRT_V2.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:BikeRT_V2.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_AdminDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_BikeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_CustomersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_EmployeesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_InDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_SubDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_TDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_FCDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_FRDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_QtyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_QtyInDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_QtyRDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_QtyTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_StatusDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_ReadyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_RDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_CusPDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_AdminRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_BikeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_CustomersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_EmployeesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_InRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_SubRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_TRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_FCRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_FRRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_QtyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_QtyInRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_QtyRRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_QtyTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_StatusRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_ReadyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_RRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_CusPRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_AdminRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_BikeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_CustomersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_EmployeesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_InRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_SubRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_TRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_FCRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_FRRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_QtyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_QtyInRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_QtyRRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_QtyTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_StatusRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_ReadyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.TBL_RRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet.QRY_CusPRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSetTableAdapters.TBL_AdminTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSetTableAdapters.TBL_BikeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSetTableAdapters.TBL_CustomersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSetTableAdapters.TBL_EmployeesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSetTableAdapters.TBL_InTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSetTableAdapters.TBL_SubTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSetTableAdapters.TBL_TTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSetTableAdapters.QRY_FCTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSetTableAdapters.QRY_FRTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSetTableAdapters.QRY_QtyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSetTableAdapters.QRY_QtyInTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSetTableAdapters.QRY_QtyRTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSetTableAdapters.QRY_QtyTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSetTableAdapters.QRY_StatusTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSetTableAdapters.QRY_ReadyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSetTableAdapters.TBL_RTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSetTableAdapters.QRY_CusPTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:BikeRT_V2._BikeRT_V2DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(BikeRT_V2._BikeRT_V2DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:BikeRT_V2._BikeRT_V2DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(BikeRT_V2._BikeRT_V2DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:BikeRT_V2._BikeRT_V2DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(BikeRT_V2._BikeRT_V2DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:BikeRT_V2._BikeRT_V2DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:BikeRT_V2._BikeRT_V2DataSetTableAdapters.TableAdapterManager.UpdateAll(BikeRT_V2._BikeRT_V2DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:BikeRT_V2._BikeRT_V2DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
